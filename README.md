@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Tofik Ibragimov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Junior Developer</h3>
 
 <!--
 **TofikIbragimov/TofikIbragimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
