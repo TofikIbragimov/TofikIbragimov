@@ -14,8 +14,8 @@
 
 <div align="left">
   <h3 align="left">Операционные системы:</h3>
-  <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/Windows11.png" height="64"/>
-  <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/Linux.png" height="64"/>
+  <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/Windows11.png" height="32"/>
+  <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/Linux.png" height="32"/>
 </div>
 
 ###
