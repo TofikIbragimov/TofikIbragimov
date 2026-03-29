@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" align="right"/>
-  <h1 align="center">Всем привет, меня зовут Тофик Ибрагимов</h1>
+  <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/ComputerWorkingSticker.gif" height="64" align="left"/>
+  <h1 align="right">Всем привет, меня зовут Тофик Ибрагимов</h1>
 </div>
 
 ###
