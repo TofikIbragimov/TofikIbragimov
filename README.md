@@ -1,18 +1,21 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-<div class="header">
-  <h1 align="center">Hi there, I'm Tofik Ibragimov <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <p align="center">Junior Developer from Russia</p>
+<div align="center">
+  <h1 align="center">Всем привет, меня зовут Тофик Ибрагимов <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 </div>
 
-</body>
-</html>
+###
+
+<h3 align="center">Junior-разработчик из России</h3>
+
+###
+
+<div align="center">
+  <a href="https://t.me/saikler" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://discord.gg/saikler" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
 <!--
 **TofikIbragimov/TofikIbragimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
