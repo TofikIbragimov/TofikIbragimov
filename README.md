@@ -1,5 +1,6 @@
 <div align="center">
-  <h1 align="center">Всем привет, меня зовут Тофик Ибрагимов <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" align="right"/>
+  <h1 align="center">Всем привет, меня зовут Тофик Ибрагимов</h1>
 </div>
 
 ###
