@@ -13,7 +13,7 @@
 ###
 
 <div align="left">
-  <h3 align="left">Операционные системы:</h3>
+  <h4 align="left">Операционные системы:</h4>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/Windows11.png" height="32"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/Linux.png" height="32"/>
 </div>
@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <h3 align="left">Технологии:</h3>
+  <h4 align="left">Технологии:</h4>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/c.png" height="32"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/cpp.png" height="32"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/csharp.png" height="32"/>
@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <h3 align="left">Инструменты:</h3>
+  <h4 align="left">Инструменты:</h4>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/VisualStudio.png" height="32"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/VisualStudioCode.png" height="32"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/Vim.png" height="32"/>
@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <h3>Связь:</h3>
+  <h4>Связь:</h4>
   <a href="https://t.me/saikler" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
   </a>
