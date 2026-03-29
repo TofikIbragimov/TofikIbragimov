@@ -19,6 +19,7 @@
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/python.png" height="64"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/html.png" height="64"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/css.png" height="64"/>
+  <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/CMake.png" height="64"/>
 </div>
 
 ###
