@@ -39,7 +39,6 @@
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/VisualStudio.png" height="32"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/VisualStudioCode.png" height="32"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/Vim.png" height="32"/>
-  <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/Nano.png" height="32"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/GCC.png" height="32"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/CMake.png" height="32"/>
   <img src="https://github.com/TofikIbragimov/TofikIbragimov/blob/main/assets/logo/DBeaver.png" height="32"/>
